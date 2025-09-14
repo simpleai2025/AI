@@ -49,4 +49,4 @@ That’s why it’s important to always give feedback with **kindness and respec
 This repository is under the MIT license.
 
 ## Contact us
-For any questions, write to: 
+For any questions, write to: simpleaigithub@gmail.com
